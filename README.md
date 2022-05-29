@@ -6,6 +6,6 @@ This project contains a sudoku validator , where you can check if it has been co
 First you need to follow a few steps to start the project:
 
 1. Clone project from github
-2. npm install
+2. Run npm install in comand line
 3. Choose which csv  you want to check 
 4. Run the project  npm run start
